@@ -18,6 +18,8 @@ Maven framework created with layered architecture of RestAPI with Cucumber as a 
         + `"mvn clean verify -Dcucumber.filter.tags=@crudOps"`
 
 3) If you are using an IDE, create a run profile with these above parameters in maven edit configuration
+4) Cucumber report will be generated in the folder `target\cucumber-html-reports` , Sample report like below
+   -![img.png](img.png)
 
 
 
